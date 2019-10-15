@@ -21,3 +21,7 @@ C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-
 C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
 C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\Shapes\obj\Debug\Shapes.dll
 C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\Shapes\obj\Debug\Shapes.pdb
+C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache
+C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\Shapes\obj\Debug\Shapes.dll
+C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\Shapes\obj\Debug\Shapes.pdb

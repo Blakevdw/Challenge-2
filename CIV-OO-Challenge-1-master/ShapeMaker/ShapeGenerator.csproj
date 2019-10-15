@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Quadrilateral_Tests\Unit-Tests.csproj" />
     <ProjectReference Include="..\Shapes\Shapes.csproj" />
   </ItemGroup>
 

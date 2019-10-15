@@ -1,0 +1,14 @@
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\ShapeMaker\bin\Debug\netcoreapp2.1\ShapeGenerator.deps.json
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\ShapeMaker\bin\Debug\netcoreapp2.1\ShapeGenerator.runtimeconfig.json
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\ShapeMaker\bin\Debug\netcoreapp2.1\ShapeGenerator.runtimeconfig.dev.json
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\ShapeMaker\bin\Debug\netcoreapp2.1\ShapeGenerator.dll
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\ShapeMaker\bin\Debug\netcoreapp2.1\ShapeGenerator.pdb
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\ShapeMaker\bin\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\ShapeMaker\bin\Debug\netcoreapp2.1\Shapes.pdb
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\ShapeMaker\obj\Debug\netcoreapp2.1\ShapeGenerator.csprojAssemblyReference.cache
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\ShapeMaker\obj\Debug\netcoreapp2.1\ShapeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\ShapeMaker\obj\Debug\netcoreapp2.1\ShapeGenerator.AssemblyInfoInputs.cache
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\ShapeMaker\obj\Debug\netcoreapp2.1\ShapeGenerator.AssemblyInfo.cs
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\ShapeMaker\obj\Debug\netcoreapp2.1\ShapeGenerator.csproj.CopyComplete
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\ShapeMaker\obj\Debug\netcoreapp2.1\ShapeGenerator.dll
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\ShapeMaker\obj\Debug\netcoreapp2.1\ShapeGenerator.pdb

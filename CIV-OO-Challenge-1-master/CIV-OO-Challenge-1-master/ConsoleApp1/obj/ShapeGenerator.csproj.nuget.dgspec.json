@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\CIV-OO-Challenge-1-master\\ConsoleApp1\\ShapeGenerator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\CIV-OO-Challenge-1-master\\ClassLibrary1\\Shapes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\CIV-OO-Challenge-1-master\\ClassLibrary1\\Shapes.csproj",
+        "projectName": "Shapes",
+        "projectPath": "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\CIV-OO-Challenge-1-master\\ClassLibrary1\\Shapes.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\CIV-OO-Challenge-1-master\\ConsoleApp1\\ShapeGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\CIV-OO-Challenge-1-master\\ConsoleApp1\\ShapeGenerator.csproj",
+        "projectName": "ShapeGenerator",
+        "projectPath": "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\CIV-OO-Challenge-1-master\\ConsoleApp1\\ShapeGenerator.csproj",
+        "packagesPath": "C:\\Users\\102535342\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\CIV-OO-Challenge-1-master\\ConsoleApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\102535342\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\CIV-OO-Challenge-1-master\\ClassLibrary1\\Shapes.csproj": {
+                "projectPath": "C:\\Users\\102535342\\Documents\\GitHub\\CIV-OO-Challenge-1-Resit\\CIV-OO-Challenge-1-master\\CIV-OO-Challenge-1-master\\ClassLibrary1\\Shapes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

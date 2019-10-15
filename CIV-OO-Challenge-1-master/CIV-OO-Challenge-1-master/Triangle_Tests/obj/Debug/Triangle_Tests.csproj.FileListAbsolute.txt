@@ -1,0 +1,2 @@
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.csprojAssemblyReference.cache
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\CIV-OO-Challenge-1-master\Triangle_Tests\obj\Debug\Triangle_Tests.csproj.CoreCompileInputs.cache

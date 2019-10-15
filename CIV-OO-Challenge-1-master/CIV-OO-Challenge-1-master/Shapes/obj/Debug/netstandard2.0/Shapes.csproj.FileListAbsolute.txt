@@ -1,0 +1,9 @@
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\CIV-OO-Challenge-1-master\Shapes\bin\Debug\netstandard2.0\Shapes.deps.json
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\CIV-OO-Challenge-1-master\Shapes\bin\Debug\netstandard2.0\Shapes.dll
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\CIV-OO-Challenge-1-master\Shapes\bin\Debug\netstandard2.0\Shapes.pdb
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\CIV-OO-Challenge-1-master\Shapes\obj\Debug\netstandard2.0\Shapes.csprojAssemblyReference.cache
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\CIV-OO-Challenge-1-master\Shapes\obj\Debug\netstandard2.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\CIV-OO-Challenge-1-master\Shapes\obj\Debug\netstandard2.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\CIV-OO-Challenge-1-master\Shapes\obj\Debug\netstandard2.0\Shapes.AssemblyInfo.cs
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\CIV-OO-Challenge-1-master\Shapes\obj\Debug\netstandard2.0\Shapes.dll
+C:\Users\102535342\Documents\GitHub\CIV-OO-Challenge-1-Resit\CIV-OO-Challenge-1-master\CIV-OO-Challenge-1-master\Shapes\obj\Debug\netstandard2.0\Shapes.pdb

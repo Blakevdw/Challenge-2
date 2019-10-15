@@ -4,12 +4,12 @@ using System.Text;
 
 namespace ShapeGenerator
 {
-    class LengthLessThanOneException : Exception
+    class InvalidDecimalInput : Exception
 
 
 
     {
-        public LengthLessThanOneException(string message) : base(message) { }
+        public InvalidDecimalInput(string message) : base(message) { }
 
 
     }

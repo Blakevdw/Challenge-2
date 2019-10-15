@@ -2,6 +2,7 @@
 using NUnit.Framework;
 using Shapes;
 
+
 namespace Quadrilateral_Tests
 {
 	[TestFixture]
@@ -75,24 +76,6 @@ namespace Quadrilateral_Tests
 		}
 
 		[Test]
-		[TestCase(5, 25)]
-		[TestCase(7, 49)]
-		[TestCase(15, 225)]
-		public void Square_GetArea_ValidInput_CorrectResult(int input, int expected)
-		{
-			// arrange
-			var sq = new Square("blue", input);
-
-			// act
-			var result = sq.GetArea();
-
-			// assert
-			Assert.AreEqual(expected, result);
-		}
-
-
-
-		[Test]
 		public void RectangleTests()
 		{
 			int area = 50;
@@ -118,68 +101,68 @@ namespace Quadrilateral_Tests
 		[Test]
 		public void EquilateralTest()
 		{
-			int area = 10.83;
+			double area = 10.83;
 			int perimeter = 15;
 
-			Assert.AreEqual(area, equ1.GetArea()));
-			Assert.AreEqual(area, equ1.GetPerimeter()));
+			Assert.AreEqual(area, equ1.GetArea());
+			Assert.AreEqual(perimeter, equ1.GetPerimeter());
 
-			int area = 97.43;
-			int perimeter = 45;
+			area = 97.43;
+			perimeter = 45;
 
-			Assert.AreEqual(area, equ2.GetArea()));
-			Assert.AreEqual(area, equ2.GetPerimeter()));
+			Assert.AreEqual(area, equ2.GetArea());
+			Assert.AreEqual(perimeter, equ2.GetPerimeter());
 
-			int area = 21.22;
-			int perimeter = 21;
+			area = 21.22;
+			perimeter = 21;
 
-			Assert.AreEqual(area, equ3.GetArea()));
-			Assert.AreEqual(area, equ3.GetPerimeter()));
+			Assert.AreEqual(area, equ3.GetArea());
+			Assert.AreEqual(perimeter, equ3.GetPerimeter());
 
 		}
 
 		[Test]
 		public void RightAngleTriangleTest()
 		{
-			int area = 25;
-			int perimeter = 26.18;
+			double area = 25;
+			double perimeter = 26.18;
 
-			Assert.AreEqual(area, rat1.GetArea()));
-			Assert.AreEqual(perimeter, rat1.GetPerimeter()));
+			Assert.AreEqual(area, rat1.GetArea());
+			Assert.AreEqual(perimeter, rat1.GetPerimeter());
 
-			int area = 12;
-			int perimeter = 17.21;
+			area = 12;
+			perimeter = 17.21;
 
-			Assert.AreEqual(area, rat2.GetArea()));
-			Assert.AreEqual(perimeter, rat2.GetPerimeter()));
+			Assert.AreEqual(area, rat2.GetArea());
+			Assert.AreEqual(perimeter, rat2.GetPerimeter());
 
-			int area = 31.5;
-			int perimeter = 27.4;
+			area = 31.5;
+			perimeter = 27.4;
 
-			Assert.AreEqual(area, rat3.GetArea()));
-			Assert.AreEqual(perimeter, rat3.GetPerimeter()));
+			Assert.AreEqual(area, rat3.GetArea());
+			Assert.AreEqual(perimeter, rat3.GetPerimeter());
 		}
 
 		[Test]
 		public void CircleTest()
 		{
-			int area = 78.55;
-			int perimeter = 31.42;
+			double area = 78.55;
+			double perimeter = 31.42;
 
-			Assert.AreEqual(area, Cir1.GetArea()));
-			Assert.AreEqual(perimeter, Cir1.GetPerimeter()));
+			Assert.AreEqual(area, Cir1.GetArea());
+			Assert.AreEqual(perimeter, Cir1.GetPerimeter());
 
-			int area = 706.95;
-			int perimeter = 94.26;
+			area = 706.95;
+			perimeter = 94.26;
 
-			Assert.AreEqual(area, Cir2.GetArea()));
-			Assert.AreEqual(perimeter, Cir2.GetPerimeter()));
+			Assert.AreEqual(area, Cir2.GetArea());
+			Assert.AreEqual(perimeter, Cir2.GetPerimeter());
 
-			int area = 153.96;
-			int perimeter = 43.99;
+			area = 153.96;
+			perimeter = 43.99;
 
-			Assert.AreEqual(area, Cir3.GetArea()));
-			Assert.AreEqual(perimeter, Cir3.GetPerimeter()));
+			Assert.AreEqual(area, Cir3.GetArea());
+			Assert.AreEqual(perimeter, Cir3.GetPerimeter());
 		}
 
 

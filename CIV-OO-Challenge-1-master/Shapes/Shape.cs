@@ -15,6 +15,7 @@ namespace Shapes
 		{
 			Colour = pColour;
 		}
+
 	}
 
 }

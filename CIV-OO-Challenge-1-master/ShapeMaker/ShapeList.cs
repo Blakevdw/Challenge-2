@@ -32,6 +32,12 @@ namespace ShapeGenerator
 				}
 				else
 
+
+				//if (input == decimal)
+				//	{
+				//		throw (new DecimalInputInvalid("Invalid Decimal input"));
+				//	}
+
 				{
 					Console.WriteLine("Current Rectangles");
 					for (int i = 0; i < squares.Count; i++)

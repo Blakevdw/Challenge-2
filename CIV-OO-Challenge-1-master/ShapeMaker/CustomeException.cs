@@ -4,13 +4,15 @@ using System.Text;
 
 namespace ShapeGenerator
 {
-    class InvalidDecimalInput : Exception
+	class InvalidInput : Exception
+	{
+		public InvalidInput(string message) : base(message) { }
+	}
+
+	class DecimalInputInvalid : Exception
+	{
+		public DecimalInputInvalid(string message) : base(message) { }
+	}
 
 
-
-    {
-        public InvalidDecimalInput(string message) : base(message) { }
-
-
-    }
 }

@@ -23,9 +23,5 @@ namespace ShapesInterface
 		{
 			return 2 * Math.PI * Radius;
 		}
-
-
 	}
-
-
 }

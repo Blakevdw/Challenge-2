@@ -23,3 +23,10 @@ C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\ShapeM
 C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\ShapeMaker\bin\Debug\netcoreapp2.1\Shapes.dll
 C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\ShapeMaker\bin\Debug\netcoreapp2.1\Shapes.pdb
 C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\ShapeMaker\obj\Debug\netcoreapp2.1\ShapeGenerator.csproj.CopyComplete
+C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\ShapeMaker\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\ShapeMaker\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\ShapeMaker\bin\Debug\netcoreapp2.1\nunit.engine.dll
+C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\ShapeMaker\bin\Debug\netcoreapp2.1\nunit.engine.api.dll
+C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\ShapeMaker\bin\Debug\netcoreapp2.1\ShapeGenerator.pdb
+C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\ShapeMaker\obj\Debug\netcoreapp2.1\ShapeGenerator.dll
+C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\ShapeMaker\obj\Debug\netcoreapp2.1\ShapeGenerator.pdb

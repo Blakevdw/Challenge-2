@@ -26,5 +26,4 @@ C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\Shapes
 C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
 C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\Shapes\obj\Debug\Shapes.dll
 C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\Shapes\obj\Debug\Shapes.pdb
-C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\Shapes\bin\Debug\Shapes.dll.CodeAnalysisLog.xml
-C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\Shapes\bin\Debug\Shapes.dll.lastcodeanalysissucceeded
+C:\Users\102535342\Documents\GitHub\Challenge-2\CIV-OO-Challenge-1-master\Shapes\obj\Debug\Shapes.csprojAssemblyReference.cache

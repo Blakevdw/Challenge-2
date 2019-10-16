@@ -18,11 +18,10 @@ namespace ShapesInterface
 
 	public class RightAngle : Triangle, IShapeData
 	{
-		public RightAngle(string pColour, double pSide1Length, double pSide2Length, double pSide3Length) : base(pColour)
+		public RightAngle(string pColour, double pSide1Length, double pSide2Length) : base(pColour)
 		{
 			Side1Length = pSide1Length;
 			Side2Length = pSide2Length;
-			Side3Length = pSide3Length;
 		}
 
 		public double GetArea()
@@ -32,18 +31,16 @@ namespace ShapesInterface
 
 		public double GetPerimeter()
 		{
-			return Side1Length + Side2Length + Side3Length;
+			return Side1Length + Side2Length + Side1Length;
 		}
 
 	}
 
 	public class Equilateral : Triangle, IShapeData2
 	{
-		public Equilateral(string pColour, double pSide1Length, double pSide2Length, double pSide3Length) : base(pColour)
+		public Equilateral(string pColour, double pSide1Length) : base(pColour)
 		{
 			Side1Length = pSide1Length;
-			Side2Length = pSide2Length;
-			Side3Length = pSide3Length;
 		}
 
 		public double GetArea()
@@ -53,7 +50,7 @@ namespace ShapesInterface
 
 		public double GetPerimeter()
 		{
-			return Side1Length + Side2Length + Side3Length;
+			return Side1Length * 3;
 		}
 
 		public double GetHypotenuse()

@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Text;
 using System.Linq;
 using Shapes;
+using ShapesInterface;
+
 
 namespace ShapeGenerator
 {
@@ -10,7 +12,7 @@ namespace ShapeGenerator
 	{
 		List<Square> squares;
 		List<Rectangle> rectangles;
-		List<Circles> circles;
+		List<Circle> circles;
 
 		public ShapeList()
 		{
@@ -26,9 +28,10 @@ namespace ShapeGenerator
 			{
 				if (rectangles.Count < 1)
 				{
-					throw (new InvalidDecimalInput("Invalid Decimal Input"));
+					throw (new InvalidInput("Invalid Input"));
 				}
 				else
+
 				{
 					Console.WriteLine("Current Rectangles");
 					for (int i = 0; i < squares.Count; i++)
@@ -51,7 +54,7 @@ namespace ShapeGenerator
 			{
 				if (squares.Count < 1)
 				{
-					throw (new InvalidDecimalInput("Invalid Decimal Input"));
+					throw (new InvalidInput("Invalid Input"));
 				}
 				else
 				{
@@ -77,14 +80,14 @@ namespace ShapeGenerator
 			{
 				if (squares.Count < 1)
 				{
-					throw (new InvalidDecimalInput("Invalid Decimal Input"));
+					throw (new InvalidInput("Invalid Input"));
 				}
 				else
 				{
 					Console.WriteLine("Current Circles");
 					for (int i = 0; i < squares.Count; i++)
 					{
-						Console.WriteLine("Circle " + i + ": Colour = " + circles[i].Colour + " length = " + circles[i].Side1Length);
+						Console.WriteLine("Circle " + i + ": Colour = " + circles[i].Colour + " Radius = " + circles[i].Radius);
 					}
 				}
 			}
@@ -114,7 +117,7 @@ namespace ShapeGenerator
 
 				if (x < 1)
 				{
-					throw (new InvalidDecimalInput("Invalid Decimal Input"));
+					throw (new InvalidInput("Invalid Input"));
 				}
 			}
 			catch (Exception e)
@@ -158,18 +161,18 @@ namespace ShapeGenerator
 			{
 				return;
 			}
-			rectangles.Add(new Rectangle(AddColour("Chosen Rectangle colour?"), x));
+			rectangles.Add(new Rectangle(AddColour("Chosen Rectangle colour?"), x, y));
 		}
 
 		public void AddCircle()
 		{
 			Console.Clear();
-			int x = AddLength("Length of first side?");
+			int x = AddLength("Length of circle Radius?");
 			if (x < 1)
 			{
 				return;
 			}
-			circle.Add(new circle(AddColour("Chosen Circle colour?"), x));
+			circles.Add(new Circle(AddColour("Chosen Circle colour?"), x));
 		}
 
 		public void DisplaySInput()
